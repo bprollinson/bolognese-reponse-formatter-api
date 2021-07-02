@@ -1,6 +1,6 @@
 <?php
 
-require_once('HTTPResponse.class.php');
+require_once(dirname(__FILE__) . '/HTTPResponse.class.php');
 
 class ResponseFormatted
 {
